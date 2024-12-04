@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/modelagem_iPhone.iml" filepath="$PROJECT_DIR$/modelagem_iPhone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modelagemPhone.iml" filepath="$PROJECT_DIR$/modelagemPhone.iml" />
     </modules>
   </component>
 </project>
